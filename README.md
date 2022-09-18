@@ -1,7 +1,8 @@
-### Hi there 👋
+Konnichiwa~ 🙋‍♂️
 
-
-- 😄 Pronouns: he/him
+- 👋 I am Kannon, aka Kumi-san
+- 👀 Currently trying to learn HTML and CSS, having an interest in AI world
+- 
 
 <!--
 - 🔭 I’m currently working on ...
