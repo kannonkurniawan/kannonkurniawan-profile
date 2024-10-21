@@ -1,6 +1,5 @@
-Konnichiwa~ 🙋‍♂️
+Greetings~ 🙋‍♂️
 
-- 👋 I am Kannon, aka Kumi-san
-- 👀 Interested in AI and data science stuff, more to study!
-- 🌱 Currently trying to learn HTML and CSS to make a website
-- 🔨 Skills? None :(
+- 👋 I'm Kannon, pre-clinical student at Udayana University, Bali
+- 🌱 Interested in learning AI and ML for medicines
+- 👀 Looking forward for more experiences!
